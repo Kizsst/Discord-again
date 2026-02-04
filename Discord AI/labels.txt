@@ -1,0 +1,7 @@
+0 Bananas
+1 Manzanas
+2 Aviones
+3 Perros
+4 Gatos
+5 Palomas
+6 Nada
